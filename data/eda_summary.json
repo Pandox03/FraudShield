@@ -1,0 +1,11 @@
+{
+  "taux_fraude": 0.00173,
+  "montant_moyen_legit": 88.29,
+  "montant_moyen_fraude": 122.21,
+  "montant_median_legit": 22.0,
+  "montant_median_fraude": 9.25,
+  "figures": {
+    "classes": "classes.png",
+    "montants": "montants.png"
+  }
+}
